@@ -37,7 +37,7 @@ The model is trained for 30 epochs on the training set (45000 samples) and One t
 ### Training and Validation Acuuracy
 ![loss](./images/acc.png)
 
-** Since epoch 28 has least validation loss hence it is used as model weight **
+__Since epoch 28 has least validation loss hence it is used as model weight__
 
 ### Precision Recall and other Metrics
 ![metrics](./images/metrics.png)
