@@ -12,8 +12,7 @@ The columns in this dataset are:
 ## Model Architect
 ### Bi-directional LSTM
 ![bi-lstml](./images/lstm_layer.png)
-### model
-![model](./images/model_architect.png)
+
 ### hyperparameters
 * Optimizer: Adam
 * Learning Rate: 0.0001
